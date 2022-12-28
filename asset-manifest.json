@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/3D-Keyboard/static/css/main.224f3219.css",
+    "main.js": "/3D-Keyboard/static/js/main.5fb58a09.js",
+    "static/js/227.f213f94f.chunk.js": "/3D-Keyboard/static/js/227.f213f94f.chunk.js",
+    "static/js/526.e683773b.chunk.js": "/3D-Keyboard/static/js/526.e683773b.chunk.js",
+    "static/js/232.21238e32.chunk.js": "/3D-Keyboard/static/js/232.21238e32.chunk.js",
+    "static/js/237.9482ee05.chunk.js": "/3D-Keyboard/static/js/237.9482ee05.chunk.js",
+    "static/js/787.a5fa54f9.chunk.js": "/3D-Keyboard/static/js/787.a5fa54f9.chunk.js",
+    "index.html": "/3D-Keyboard/index.html",
+    "main.224f3219.css.map": "/3D-Keyboard/static/css/main.224f3219.css.map",
+    "main.5fb58a09.js.map": "/3D-Keyboard/static/js/main.5fb58a09.js.map",
+    "227.f213f94f.chunk.js.map": "/3D-Keyboard/static/js/227.f213f94f.chunk.js.map",
+    "526.e683773b.chunk.js.map": "/3D-Keyboard/static/js/526.e683773b.chunk.js.map",
+    "232.21238e32.chunk.js.map": "/3D-Keyboard/static/js/232.21238e32.chunk.js.map",
+    "237.9482ee05.chunk.js.map": "/3D-Keyboard/static/js/237.9482ee05.chunk.js.map",
+    "787.a5fa54f9.chunk.js.map": "/3D-Keyboard/static/js/787.a5fa54f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.224f3219.css",
+    "static/js/main.5fb58a09.js"
+  ]
+}
